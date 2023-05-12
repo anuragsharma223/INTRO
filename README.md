@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saddist
+- 👋 Hi, I’m @AnuragSharma
 - 👀 I’m interested in web developing,machine learning and data analysis.
 - 🌱 I’m currently looking for companions to grow with and build a network with my peers and people with common interests in
 - 💞️ I’m not looking to collaborate, as of now am just focused on building my skills first and then I am looking to contribute in open source
